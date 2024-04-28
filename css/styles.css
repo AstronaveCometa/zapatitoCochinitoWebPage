@@ -29,3 +29,18 @@
 .linkVerde:hover{
     color:rgb(0, 72, 13);
 }
+
+.iconoPropio{
+    margin-top: -12px;
+    padding-bottom: 3px;
+    filter: brightness(100%);
+}
+
+.iconoPropio:hover{
+    filter: brightness(70%);
+}
+
+.cuadroVideo{
+    border-radius: 10px;
+    margin: 5px;
+}
