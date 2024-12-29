@@ -109,6 +109,21 @@ li{
     filter: brightness(70%);
   }
 
+.botonLetra{
+    margin: 10px;
+    border-width: medium;
+    border-radius: 50px;
+    border-color: rgb(130, 196, 108);
+    background: rgb(238, 255, 164);
+    font-size: larger;
+    color: green;
+    filter: brightness(100%); 
+}
+
+.botonLetra:hover{
+    filter: brightness(70%);
+  }
+
   .alinear{
     align-items: center;
     justify-content: center;
